@@ -64,7 +64,7 @@ html {
   .icons {
     position: absolute;
     top: 90%;
-    left: 41%;
+    left: 39%;
     @apply text-4xl text-white
   }
   .icons ul li{
@@ -73,13 +73,18 @@ html {
   .icons ul li a{
     display: block;
     padding: 10px;
+    transition: all ease 0.5s;
   }
+  #gh:hover {@apply text-gray-500}
+  #LIn:hover {@apply text-[#0A66C2]}
+  #dsc:hover {@apply text-[#5562EA]}
+  #ig:hover {@apply text-[#E8424E]}
+  #mail:hover {@apply text-[#32A350]}
   /* ABOUT PAGE */
   .panel-2 {
     @apply h-screen w-full overflow-hidden flex flex-nowrap bg-white
   }
   .panel-2 .body-2 {
-    
   }
   .panel-2 h1 {
     font-size: 52px;

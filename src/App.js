@@ -1,5 +1,6 @@
 import './App.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
 import { faGithub, faLinkedin, faDiscord, faInstagram } from '@fortawesome/free-brands-svg-icons';
 
 function App() {
@@ -23,10 +24,11 @@ function App() {
         </header>
         <div className="icons">
           <ul>
-            <li><a href="https://github.com/ajay-jayanth" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faGithub}></FontAwesomeIcon></a></li>
-            <li><a href="https://www.linkedin.com/in/ajay-jayanth/" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faLinkedin}></FontAwesomeIcon></a></li>
-            <li><a href="https://www.discord.com/users/theordinaryajay#2196/" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faDiscord}></FontAwesomeIcon></a></li>
-            <li><a href="https://www.instagram.com/the_ordinary_ajay/" rel="noopener noreferrer" target="_blank"><FontAwesomeIcon icon={faInstagram}></FontAwesomeIcon></a></li>
+            <li><a href="https://github.com/ajay-jayanth" rel="noopener noreferrer" target="_blank" id="gh"><FontAwesomeIcon icon={faGithub}></FontAwesomeIcon></a></li>
+            <li><a href="https://www.linkedin.com/in/ajay-jayanth/" rel="noopener noreferrer" target="_blank" id="LIn"><FontAwesomeIcon icon={faLinkedin}></FontAwesomeIcon></a></li>
+            <li><a href="https://www.discord.com/users/theordinaryajay#2196/" rel="noopener noreferrer" target="_blank" id="dsc"><FontAwesomeIcon icon={faDiscord}></FontAwesomeIcon></a></li>
+            <li><a href="https://www.instagram.com/the_ordinary_ajay/" rel="noopener noreferrer" target="_blank" id="ig"><FontAwesomeIcon icon={faInstagram}></FontAwesomeIcon></a></li>
+            <li><a href="mailto:kunhu2004@gmail.com" rel="noopener noreferrer" target="_blank" id="mail"><FontAwesomeIcon icon={faEnvelope}></FontAwesomeIcon></a></li>
           </ul>
         </div>
       </div>
