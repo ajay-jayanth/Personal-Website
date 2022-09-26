@@ -19,7 +19,7 @@ function App() {
         </div>
         <div className="bg-1"></div>
         <header className="App-header">
-          Hi, I'm Ajay Jayanth.
+          Hi, I'm Ajay Jayant.
         </header>
         <div className="icons">
           <ul>
