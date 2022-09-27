@@ -1,5 +1,3 @@
-#personal-website
-
-##[[Link]()](https://ajay-jayanth.github.io/personal-website/)
-
-###Work in Progress
+# personal-website
+## Release Repo to [Website](https://ajay-jayanth.github.io/personal-website/)
+### Work in Progress.
