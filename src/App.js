@@ -34,9 +34,10 @@ function App() {
       </div>
       <div className="panel-2" id="About">
         <div className="body-2">
-          <h1>About</h1>
+          <h1>Work in Progress...</h1>
+          {/* <h1>About</h1>
           <p>I'm currently a college freshman majoring in Computer Science and have engaged in numerous diverse extracurriculars and projects to build my technical and soft skills to pursue a career in the field.</p>
-          {/* <h2 id="s1">Education</h2>
+          <h2 id="s1">Education</h2>
           <p id="p2">Pursuing B.S. in Computer Science at the University of Texas at Dallas</p>
           <p id="p3">Graduated the Texas Academy of Mathematics of Science with Highest Academic Distinction</p> */}
         </div>
