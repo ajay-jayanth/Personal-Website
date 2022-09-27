@@ -101,6 +101,9 @@ html {
     font-size: 25px;
     font-weight: 300;
   }
+  #Link {
+    @apply text-blue-500 underline
+  }
   /* EXPERIENCE PAGE */
   .panel-3 {
     @apply h-screen w-full overflow-hidden flex flex-nowrap text-center bg-gradient-to-b from-white to-red-300

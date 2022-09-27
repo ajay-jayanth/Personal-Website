@@ -35,6 +35,8 @@ function App() {
       <div className="panel-2" id="About">
         <div className="body-2">
           <h1>Work in Progress...</h1>
+          <h1 id="Link"><a href="https://github.com/ajay-jayanth/personal-website" rel="noopener noreferrer" target="_blank">Release Build</a></h1>
+          <h1 id="Link"><a href="https://github.com/ajay-jayanth/personal-website-dev" rel="noopener noreferrer" target="_blank">Dev Build</a></h1>
           {/* <h1>About</h1>
           <p>I'm currently a college freshman majoring in Computer Science and have engaged in numerous diverse extracurriculars and projects to build my technical and soft skills to pursue a career in the field.</p>
           <h2 id="s1">Education</h2>
