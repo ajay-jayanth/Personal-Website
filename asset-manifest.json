@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.c47ddaec.css",
-    "main.js": "/personal-website/static/js/main.1bf4ebb6.js",
+    "main.css": "/personal-website/static/css/main.05d6fbcc.css",
+    "main.js": "/personal-website/static/js/main.46e13bad.js",
     "static/js/787.463d5740.chunk.js": "/personal-website/static/js/787.463d5740.chunk.js",
+    "static/media/website.png": "/personal-website/static/media/website.6387b59cb35f726645c3.png",
     "static/media/pfp2.jpg": "/personal-website/static/media/pfp2.a01d229083a23e97b565.jpg",
+    "static/media/syft-self-port.jpg": "/personal-website/static/media/syft-self-port.c124fd93d2afca85afd8.jpg",
+    "static/media/vaporvision.png": "/personal-website/static/media/vaporvision.c9fcb7558e43e2a74072.png",
+    "static/media/optimine.jpg": "/personal-website/static/media/optimine.876128df46a89958d8ac.jpg",
+    "static/media/nlp-research-diagram.png": "/personal-website/static/media/nlp-research-diagram.9ae2834c72e53f8100d0.png",
+    "static/media/broadcom-logo.png": "/personal-website/static/media/broadcom-logo.8d4d8c26e4ef0b9e3d52.png",
+    "static/media/aiCA-logo.png": "/personal-website/static/media/aiCA-logo.94eedc1b5ba45bfb5fb8.png",
+    "static/media/SYFT-favicon-dark.png": "/personal-website/static/media/SYFT-favicon-dark.2cfd7c00d0a92e856f95.png",
+    "static/media/utd-logo.png": "/personal-website/static/media/utd-logo.da6e215ae808ba3c29a0.png",
     "index.html": "/personal-website/index.html",
-    "main.c47ddaec.css.map": "/personal-website/static/css/main.c47ddaec.css.map",
-    "main.1bf4ebb6.js.map": "/personal-website/static/js/main.1bf4ebb6.js.map",
+    "main.05d6fbcc.css.map": "/personal-website/static/css/main.05d6fbcc.css.map",
+    "main.46e13bad.js.map": "/personal-website/static/js/main.46e13bad.js.map",
     "787.463d5740.chunk.js.map": "/personal-website/static/js/787.463d5740.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c47ddaec.css",
-    "static/js/main.1bf4ebb6.js"
+    "static/css/main.05d6fbcc.css",
+    "static/js/main.46e13bad.js"
   ]
 }
