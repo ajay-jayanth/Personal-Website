@@ -1,4 +1,2 @@
-# personal-website
-## Release Repo to [Website](https://ajay-jayanth.github.io/personal-website/)
-### Work in Progress.
-### Completion Date: TBD
+# personal-website-dev
+## Dev Repo to [WIP Website](https://ajay-jayanth.github.io/personal-website/)
